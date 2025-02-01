@@ -1,3 +1,3 @@
 # JAVA-DEMO
 This is my first Git Repository.
-Author-Satya Chauhan
+Author-Satya Chauhan(SATYA IT)
